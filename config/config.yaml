@@ -4,12 +4,12 @@ common:
 
 superhawk:
   url: https://upload.chaojiying.net/Upload/Processing.php
-  username: chenjohn
-  password: 8hc12qpi
-  softid: 970828
+  username: username
+  password: password
+  softid: 888888
   codetype: 1004
   captcha_pic: captcha.png
 
 fecshop:
-  account: 18817750834
-  password: 123456
+  account: account
+  password: password
